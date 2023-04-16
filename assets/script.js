@@ -73,3 +73,10 @@ buttons.forEach(button => {
 });
 // add event listener for save highscore
 //set local storage and redirect to html page
+var saveScore= document.getElementById("save-score");
+var initials= document.getElementById("initials");
+saveScore.addEventListener("click", function (event){
+var score =initials.value+" "+sec;
+localStorage.setItem("highscore", score);
+location.href="./highscore.html"
+})
