@@ -17,10 +17,10 @@ Click the link to access the quiz:
 Click the Start quiz button to be prompted the questions. Then click the answer that best suits the question once you have completed the quiz it will ask you for your name so that it can save the score you jsut got.
 
 This is the preview of the page:
-![Online quiz overview](./Assets/image/Onlinequiz.jpg)
+![Online quiz overview](./assets/image/Onlinequiz.jpg)
 
 What a questions looks like.
-![Online quiz overview](./Assets/image/QuizQuestion.jpg)
+![Online quiz question](./assets/image/QuizQuestion.jpg)
 ## contribution
 I wrote everything with the help of tutor Andrew Hardmon.
 
