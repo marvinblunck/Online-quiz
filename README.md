@@ -12,7 +12,7 @@ In challenge four we were asked to make a simple web quiz that uses javascript t
 N/A
 
 ## usage
-Click the link to access the quiz: 
+Click the link to access the quiz:  https://marvinblunck.github.io/Online-quiz/
 
 Click the Start quiz button to be prompted the questions. Then click the answer that best suits the question once you have completed the quiz it will ask you for your name so that it can save the score you jsut got.
 
